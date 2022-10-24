@@ -8,4 +8,4 @@
 
 ### Screenshot of the application-
 
-<img src="Screenshot 2022-10-24 170313.png" alt="Girl in a jacket" width="500" height="600">
+<img src="Screenshot 2022-10-24 170313.png" alt="Application screenshot">
